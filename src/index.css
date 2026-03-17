@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rosa-fundo: #fdf2f8;
+  --color-rosa-destaque: #f472b6;
+}
